@@ -6,10 +6,16 @@ title: Tags
 <h1>Tags</h1>
 
 <ul>
-  {% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+{% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+<ul>
   {% for tag in all_tags %}
     {% assign tag_trimmed = tag | strip %}
-    <li><a href="{{ relative_url }}/tags/{{ tag_trimmed | slugify }}/">{{ tag_trimmed }}</a></li>
+    <li>
+      <a href="{{ '/tags/' | append: tag_trimmed | slugify | append: '/' | relative_url }}">
+        {{ tag_trimmed }}
+      </a>
+    </li>
   {% endfor %}
+</ul>
 </ul>
 
