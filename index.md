@@ -16,7 +16,7 @@ Leitura ativa é uma query: busca temas, padrões e relações.
 ---
 
 {% for post in site.posts %}
-- 📖 _{{ post.date | date: "%d/%m/%Y" }}_ — [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) — {{ post.author }} — {{ post.my_rating }}★
+- 📖 _{{ post.date | date: "%d/%m/%Y" }}_ — [{{ post.title }}]({{ post.url | relative_url  }}) — {{ post.author }} — {{ post.my_rating }}★
 {% endfor %}
 
 ---
