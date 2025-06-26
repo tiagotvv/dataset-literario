@@ -5,7 +5,6 @@ title: Tags
 
 <h1>Tags</h1>
 
-<ul>
 {% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
 <ul>
   {% for tag in all_tags %}
@@ -16,6 +15,5 @@ title: Tags
       </a>
     </li>
   {% endfor %}
-</ul>
 </ul>
 
