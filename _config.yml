@@ -1,3 +1,6 @@
 title: Dataset Literário
 baseurl: "/dataset-literario"
 theme: minima
+
+include:
+  - tags
