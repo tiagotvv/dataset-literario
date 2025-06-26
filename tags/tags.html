@@ -10,8 +10,8 @@ title: Tags
   {% for tag in all_tags %}
     {% assign tag_trimmed = tag | strip %}
     <li>
-      <a href="{{ '/tags/' | append: tag_trimmed | slugify | append: '/' | relative_url }}">
-        {{ tag_trimmed }}
+      <a href="{{ '/tags/' | append: tag | slugify: 'pretty' | append: '/' | relative_url }}">
+      {{ tag_trimmed }}
       </a>
     </li>
   {% endfor %}
