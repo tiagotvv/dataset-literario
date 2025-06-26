@@ -3,7 +3,7 @@ layout: default
 title: Dataset Literário
 ---
 
-<img src="/assets/images/logo.png" alt="Logo" style="max-width: 200px;"/>
+<img src="{{ '/assets/images/logo.png' | relative_url }}"  alt="Logo" style="max-width: 200px;"/>
 
 # Bem-vindo ao Dataset Literário
 
