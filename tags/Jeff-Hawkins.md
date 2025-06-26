@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Jeff Hawkins
+tag: jeff-hawkins
 permalink: /tags/jeff-hawkins/
 ---

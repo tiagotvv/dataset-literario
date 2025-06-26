@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Johann Wolfgang von Goethe
+tag: johann-wolfgang-von-goethe
 permalink: /tags/johann-wolfgang-von-goethe/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: John Steinbeck
+tag: john-steinbeck
 permalink: /tags/john-steinbeck/
 ---

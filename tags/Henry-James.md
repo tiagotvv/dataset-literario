@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Henry James
+tag: henry-james
 permalink: /tags/henry-james/
 ---

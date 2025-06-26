@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Yuri Tynianov
+tag: yuri-tynianov
 permalink: /tags/yuri-tynianov/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Henrik Ibsen
+tag: henrik-ibsen
 permalink: /tags/henrik-ibsen/
 ---

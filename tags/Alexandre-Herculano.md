@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alexandre Herculano
+tag: alexandre-herculano
 permalink: /tags/alexandre-herculano/
 ---

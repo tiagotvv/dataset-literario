@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Selma Lagerlöf
+tag: selma-lagerlöf
 permalink: /tags/selma-lagerlöf/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Eça de Queirós
+tag: eça-de-queirós
 permalink: /tags/eça-de-queirós/
 ---

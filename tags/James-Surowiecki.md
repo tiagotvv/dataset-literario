@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: James Surowiecki
+tag: james-surowiecki
 permalink: /tags/james-surowiecki/
 ---

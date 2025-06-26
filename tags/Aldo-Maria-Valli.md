@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Aldo Maria Valli
+tag: aldo-maria-valli
 permalink: /tags/aldo-maria-valli/
 ---

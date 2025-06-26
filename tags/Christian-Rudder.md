@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Christian Rudder
+tag: christian-rudder
 permalink: /tags/christian-rudder/
 ---

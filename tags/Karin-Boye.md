@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Karin Boye
+tag: karin-boye
 permalink: /tags/karin-boye/
 ---

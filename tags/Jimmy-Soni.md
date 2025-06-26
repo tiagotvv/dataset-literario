@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Jimmy Soni
+tag: jimmy-soni
 permalink: /tags/jimmy-soni/
 ---

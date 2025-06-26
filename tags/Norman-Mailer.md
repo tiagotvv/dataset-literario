@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Norman Mailer
+tag: norman-mailer
 permalink: /tags/norman-mailer/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Murilo Rubião
+tag: murilo-rubião
 permalink: /tags/murilo-rubião/
 ---

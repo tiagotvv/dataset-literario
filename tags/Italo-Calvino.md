@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Italo Calvino
+tag: italo-calvino
 permalink: /tags/italo-calvino/
 ---

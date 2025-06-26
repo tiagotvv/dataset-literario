@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Anton Chekhov
+tag: anton-chekhov
 permalink: /tags/anton-chekhov/
 ---

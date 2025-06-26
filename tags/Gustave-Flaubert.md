@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Gustave Flaubert
+tag: gustave-flaubert
 permalink: /tags/gustave-flaubert/
 ---

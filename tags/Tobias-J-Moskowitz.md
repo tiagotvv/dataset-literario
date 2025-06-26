@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Tobias J. Moskowitz
+tag: tobias-j-moskowitz
 permalink: /tags/tobias-j-moskowitz/
 ---

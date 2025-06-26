@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ben Lindbergh
+tag: ben-lindbergh
 permalink: /tags/ben-lindbergh/
 ---

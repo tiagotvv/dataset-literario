@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Seth Stephens-Davidowitz
+tag: seth-stephens-davidowitz
 permalink: /tags/seth-stephens-davidowitz/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ivan Bunin
+tag: ivan-bunin
 permalink: /tags/ivan-bunin/
 ---

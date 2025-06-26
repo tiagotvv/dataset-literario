@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Leandro Vignoli
+tag: leandro-vignoli
 permalink: /tags/leandro-vignoli/
 ---

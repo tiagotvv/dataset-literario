@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Charles Duhigg
+tag: charles-duhigg
 permalink: /tags/charles-duhigg/
 ---

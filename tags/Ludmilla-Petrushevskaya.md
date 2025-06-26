@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ludmilla Petrushevskaya
+tag: ludmilla-petrushevskaya
 permalink: /tags/ludmilla-petrushevskaya/
 ---

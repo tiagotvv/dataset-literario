@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Miguel Metelo de Seixas
+tag: miguel-metelo-de-seixas
 permalink: /tags/miguel-metelo-de-seixas/
 ---

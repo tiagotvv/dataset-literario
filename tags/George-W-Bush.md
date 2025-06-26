@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: George W. Bush
+tag: george-w-bush
 permalink: /tags/george-w-bush/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Luis Fernando Verissimo
+tag: luis-fernando-verissimo
 permalink: /tags/luis-fernando-verissimo/
 ---

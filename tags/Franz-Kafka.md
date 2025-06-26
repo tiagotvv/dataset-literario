@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Franz Kafka
+tag: franz-kafka
 permalink: /tags/franz-kafka/
 ---

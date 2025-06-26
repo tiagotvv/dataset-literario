@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Lygia Fagundes Telles
+tag: lygia-fagundes-telles
 permalink: /tags/lygia-fagundes-telles/
 ---

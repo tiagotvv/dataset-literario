@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Cole Nussbaumer Knaflic
+tag: cole-nussbaumer-knaflic
 permalink: /tags/cole-nussbaumer-knaflic/
 ---

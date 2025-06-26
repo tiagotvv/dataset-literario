@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ivan Turgenev
+tag: ivan-turgenev
 permalink: /tags/ivan-turgenev/
 ---

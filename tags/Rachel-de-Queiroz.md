@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Rachel de Queiroz
+tag: rachel-de-queiroz
 permalink: /tags/rachel-de-queiroz/
 ---

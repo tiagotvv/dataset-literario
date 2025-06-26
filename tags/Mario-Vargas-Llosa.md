@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Mario Vargas Llosa
+tag: mario-vargas-llosa
 permalink: /tags/mario-vargas-llosa/
 ---

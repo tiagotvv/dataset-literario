@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Martin Ford
+tag: martin-ford
 permalink: /tags/martin-ford/
 ---

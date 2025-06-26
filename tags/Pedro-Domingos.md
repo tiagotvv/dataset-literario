@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Pedro Domingos
+tag: pedro-domingos
 permalink: /tags/pedro-domingos/
 ---

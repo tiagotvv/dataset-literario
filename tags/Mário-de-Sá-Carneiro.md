@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Mário de Sá-Carneiro
+tag: mário-de-sá-carneiro
 permalink: /tags/mário-de-sá-carneiro/
 ---

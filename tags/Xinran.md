@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Xinran
+tag: xinran
 permalink: /tags/xinran/
 ---

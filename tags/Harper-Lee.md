@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Harper Lee
+tag: harper-lee
 permalink: /tags/harper-lee/
 ---

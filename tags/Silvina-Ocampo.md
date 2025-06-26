@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Silvina Ocampo
+tag: silvina-ocampo
 permalink: /tags/silvina-ocampo/
 ---

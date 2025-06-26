@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Juan Rulfo
+tag: juan-rulfo
 permalink: /tags/juan-rulfo/
 ---

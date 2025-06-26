@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Nick Bostrom
+tag: nick-bostrom
 permalink: /tags/nick-bostrom/
 ---

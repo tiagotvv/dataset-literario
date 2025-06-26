@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Camilo Castelo Branco
+tag: camilo-castelo-branco
 permalink: /tags/camilo-castelo-branco/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Mikhail Bulgakov
+tag: mikhail-bulgakov
 permalink: /tags/mikhail-bulgakov/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Andre Agassi
+tag: andre-agassi
 permalink: /tags/andre-agassi/
 ---

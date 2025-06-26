@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Kurt Vonnegut Jr.
+tag: kurt-vonnegut-jr
 permalink: /tags/kurt-vonnegut-jr/
 ---

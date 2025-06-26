@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Bianca Bosker
+tag: bianca-bosker
 permalink: /tags/bianca-bosker/
 ---

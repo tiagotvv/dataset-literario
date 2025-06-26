@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Hans Rosling
+tag: hans-rosling
 permalink: /tags/hans-rosling/
 ---

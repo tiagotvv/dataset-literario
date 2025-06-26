@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Raul Brandão
+tag: raul-brandão
 permalink: /tags/raul-brandão/
 ---

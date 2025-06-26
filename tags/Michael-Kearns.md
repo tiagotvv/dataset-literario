@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Michael Kearns
+tag: michael-kearns
 permalink: /tags/michael-kearns/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Aristophanes
+tag: aristophanes
 permalink: /tags/aristophanes/
 ---

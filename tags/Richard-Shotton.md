@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Richard Shotton
+tag: richard-shotton
 permalink: /tags/richard-shotton/
 ---

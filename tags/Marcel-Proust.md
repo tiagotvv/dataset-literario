@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Marcel Proust
+tag: marcel-proust
 permalink: /tags/marcel-proust/
 ---

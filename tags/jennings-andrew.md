@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Andrew Jennings
+tag: jennings-andrew
 permalink: /tags/jennings-andrew/
 ---

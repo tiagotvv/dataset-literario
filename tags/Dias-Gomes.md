@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Dias Gomes
+tag: dias-gomes
 permalink: /tags/dias-gomes/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alexander Pushkin
+tag: alexander-pushkin
 permalink: /tags/alexander-pushkin/
 ---

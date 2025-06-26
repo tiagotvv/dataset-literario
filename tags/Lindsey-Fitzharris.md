@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Lindsey Fitzharris
+tag: lindsey-fitzharris
 permalink: /tags/lindsey-fitzharris/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Graciliano Ramos
+tag: graciliano-ramos
 permalink: /tags/graciliano-ramos/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Michael Oakeshott
+tag: michael-oakeshott
 permalink: /tags/michael-oakeshott/
 ---

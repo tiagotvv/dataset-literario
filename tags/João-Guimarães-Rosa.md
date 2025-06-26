@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: João Guimarães Rosa
+tag: joão-guimarães-rosa
 permalink: /tags/joão-guimarães-rosa/
 ---

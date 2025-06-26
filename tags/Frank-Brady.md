@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Frank Brady
+tag: frank-brady
 permalink: /tags/frank-brady/
 ---

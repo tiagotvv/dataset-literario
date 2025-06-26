@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Sönke Ahrens
+tag: sönke-ahrens
 permalink: /tags/sönke-ahrens/
 ---

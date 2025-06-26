@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Andrea Wulf
+tag: andrea-wulf
 permalink: /tags/andrea-wulf/
 ---

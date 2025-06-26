@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: David Spiegelhalter
+tag: david-spiegelhalter
 permalink: /tags/david-spiegelhalter/
 ---

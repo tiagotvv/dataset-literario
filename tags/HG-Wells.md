@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: H.G. Wells
+tag: hg-wells
 permalink: /tags/hg-wells/
 ---

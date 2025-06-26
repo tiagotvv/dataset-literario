@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Mary Wollstonecraft Shelley
+tag: mary-wollstonecraft-shelley
 permalink: /tags/mary-wollstonecraft-shelley/
 ---

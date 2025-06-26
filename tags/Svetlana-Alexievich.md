@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Svetlana Alexievich
+tag: svetlana-alexievich
 permalink: /tags/svetlana-alexievich/
 ---

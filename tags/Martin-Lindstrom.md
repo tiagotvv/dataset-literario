@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Martin Lindstrom
+tag: martin-lindstrom
 permalink: /tags/martin-lindstrom/
 ---

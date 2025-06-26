@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Kevin  Ashton
+tag: kevin--ashton
 permalink: /tags/kevin--ashton/
 ---

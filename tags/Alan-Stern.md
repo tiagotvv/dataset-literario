@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alan Stern
+tag: alan-stern
 permalink: /tags/alan-stern/
 ---

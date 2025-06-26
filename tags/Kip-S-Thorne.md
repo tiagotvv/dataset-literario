@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Kip S. Thorne
+tag: kip-s-thorne
 permalink: /tags/kip-s-thorne/
 ---

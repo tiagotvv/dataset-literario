@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Nikolai Leskov
+tag: nikolai-leskov
 permalink: /tags/nikolai-leskov/
 ---

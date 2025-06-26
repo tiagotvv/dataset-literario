@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Carl Sagan
+tag: carl-sagan
 permalink: /tags/carl-sagan/
 ---

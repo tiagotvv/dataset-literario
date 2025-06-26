@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Machado de Assis
+tag: machado-de-assis
 permalink: /tags/machado-de-assis/
 ---

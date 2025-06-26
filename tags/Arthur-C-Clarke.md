@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Arthur C. Clarke
+tag: arthur-c-clarke
 permalink: /tags/arthur-c-clarke/
 ---

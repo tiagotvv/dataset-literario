@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: William Poundstone
+tag: william-poundstone
 permalink: /tags/william-poundstone/
 ---

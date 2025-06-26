@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Henry David Thoreau
+tag: henry-david-thoreau
 permalink: /tags/henry-david-thoreau/
 ---

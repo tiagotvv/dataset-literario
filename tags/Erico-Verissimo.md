@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Erico Verissimo
+tag: erico-verissimo
 permalink: /tags/erico-verissimo/
 ---

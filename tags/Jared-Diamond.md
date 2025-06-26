@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Jared Diamond
+tag: jared-diamond
 permalink: /tags/jared-diamond/
 ---

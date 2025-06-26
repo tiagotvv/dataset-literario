@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Michel Desmurget
+tag: michel-desmurget
 permalink: /tags/michel-desmurget/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Michael  Moss
+tag: michael--moss
 permalink: /tags/michael--moss/
 ---

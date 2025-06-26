@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ryszard Kapuściński
+tag: ryszard-kapuściński
 permalink: /tags/ryszard-kapuściński/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Miguel Torga
+tag: miguel-torga
 permalink: /tags/miguel-torga/
 ---

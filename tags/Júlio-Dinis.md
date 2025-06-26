@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Júlio Dinis
+tag: júlio-dinis
 permalink: /tags/júlio-dinis/
 ---

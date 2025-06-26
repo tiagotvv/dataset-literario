@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: David McRaney
+tag: david-mcraney
 permalink: /tags/david-mcraney/
 ---

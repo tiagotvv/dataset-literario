@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Matthew Walker
+tag: matthew-walker
 permalink: /tags/matthew-walker/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Seth Partnow
+tag: seth-partnow
 permalink: /tags/seth-partnow/
 ---

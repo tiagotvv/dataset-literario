@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ariano Suassuna
+tag: ariano-suassuna
 permalink: /tags/ariano-suassuna/
 ---

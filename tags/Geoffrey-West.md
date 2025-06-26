@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Geoffrey West
+tag: geoffrey-west
 permalink: /tags/geoffrey-west/
 ---

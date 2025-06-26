@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Sabine Hossenfelder
+tag: sabine-hossenfelder
 permalink: /tags/sabine-hossenfelder/
 ---

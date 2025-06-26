@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: John Allen Paulos
+tag: john-allen-paulos
 permalink: /tags/john-allen-paulos/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Michael Booth
+tag: michael-booth
 permalink: /tags/michael-booth/
 ---

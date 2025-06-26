@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Christoph Biermann
+tag: christoph-biermann
 permalink: /tags/christoph-biermann/
 ---

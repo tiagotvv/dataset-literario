@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Almeida Garrett
+tag: almeida-garrett
 permalink: /tags/almeida-garrett/
 ---

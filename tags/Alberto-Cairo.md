@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alberto Cairo
+tag: alberto-cairo
 permalink: /tags/alberto-cairo/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Annie Duke
+tag: annie-duke
 permalink: /tags/annie-duke/
 ---

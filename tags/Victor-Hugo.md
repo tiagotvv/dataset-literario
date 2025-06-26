@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Victor Hugo
+tag: victor-hugo
 permalink: /tags/victor-hugo/
 ---

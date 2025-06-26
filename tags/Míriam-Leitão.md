@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Míriam Leitão
+tag: míriam-leitão
 permalink: /tags/míriam-leitão/
 ---

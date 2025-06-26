@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Nathan Furr
+tag: nathan-furr
 permalink: /tags/nathan-furr/
 ---

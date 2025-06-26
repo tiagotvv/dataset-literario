@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: John Carreyrou
+tag: john-carreyrou
 permalink: /tags/john-carreyrou/
 ---

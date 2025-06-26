@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: José Saramago
+tag: josé-saramago
 permalink: /tags/josé-saramago/
 ---

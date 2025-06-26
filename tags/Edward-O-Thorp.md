@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Edward O. Thorp
+tag: edward-o-thorp
 permalink: /tags/edward-o-thorp/
 ---

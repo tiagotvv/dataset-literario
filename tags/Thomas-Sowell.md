@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Thomas Sowell
+tag: thomas-sowell
 permalink: /tags/thomas-sowell/
 ---

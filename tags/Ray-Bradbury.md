@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ray Bradbury
+tag: ray-bradbury
 permalink: /tags/ray-bradbury/
 ---

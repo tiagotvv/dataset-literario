@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Dava Sobel
+tag: dava-sobel
 permalink: /tags/dava-sobel/
 ---

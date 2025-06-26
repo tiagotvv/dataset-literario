@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Laurentino Gomes
+tag: laurentino-gomes
 permalink: /tags/laurentino-gomes/
 ---

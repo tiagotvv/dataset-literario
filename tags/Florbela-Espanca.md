@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Florbela Espanca
+tag: florbela-espanca
 permalink: /tags/florbela-espanca/
 ---

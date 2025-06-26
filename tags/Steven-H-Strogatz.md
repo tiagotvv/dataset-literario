@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Steven H. Strogatz
+tag: steven-h-strogatz
 permalink: /tags/steven-h-strogatz/
 ---

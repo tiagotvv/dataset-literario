@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Roberto Bolaño
+tag: roberto-bolaño
 permalink: /tags/roberto-bolaño/
 ---

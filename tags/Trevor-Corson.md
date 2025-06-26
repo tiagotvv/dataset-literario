@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Trevor Corson
+tag: trevor-corson
 permalink: /tags/trevor-corson/
 ---

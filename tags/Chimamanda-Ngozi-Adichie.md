@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Chimamanda Ngozi Adichie
+tag: chimamanda-ngozi-adichie
 permalink: /tags/chimamanda-ngozi-adichie/
 ---

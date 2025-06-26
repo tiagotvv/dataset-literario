@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Jack London
+tag: jack-london
 permalink: /tags/jack-london/
 ---

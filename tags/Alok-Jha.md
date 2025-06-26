@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alok Jha
+tag: alok-jha
 permalink: /tags/alok-jha/
 ---

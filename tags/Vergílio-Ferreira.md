@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Vergílio Ferreira
+tag: vergílio-ferreira
 permalink: /tags/vergílio-ferreira/
 ---

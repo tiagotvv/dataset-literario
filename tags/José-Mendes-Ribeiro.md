@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: José Mendes Ribeiro
+tag: josé-mendes-ribeiro
 permalink: /tags/josé-mendes-ribeiro/
 ---

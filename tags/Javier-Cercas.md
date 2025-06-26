@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Javier Cercas
+tag: javier-cercas
 permalink: /tags/javier-cercas/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Cathy O'Neil
+tag: cathy-oneil
 permalink: /tags/cathy-oneil/
 ---

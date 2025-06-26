@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Stephen Witt
+tag: stephen-witt
 permalink: /tags/stephen-witt/
 ---

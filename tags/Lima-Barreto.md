@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Lima Barreto
+tag: lima-barreto
 permalink: /tags/lima-barreto/
 ---

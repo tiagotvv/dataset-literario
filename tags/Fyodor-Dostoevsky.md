@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Fyodor Dostoevsky
+tag: fyodor-dostoevsky
 permalink: /tags/fyodor-dostoevsky/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Atul Gawande
+tag: atul-gawande
 permalink: /tags/atul-gawande/
 ---

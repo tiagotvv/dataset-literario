@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Arlindo Oliveira
+tag: arlindo-oliveira
 permalink: /tags/arlindo-oliveira/
 ---

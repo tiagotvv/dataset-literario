@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Tony Blair
+tag: tony-blair
 permalink: /tags/tony-blair/
 ---

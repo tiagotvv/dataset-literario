@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Stanislas Dehaene
+tag: stanislas-dehaene
 permalink: /tags/stanislas-dehaene/
 ---

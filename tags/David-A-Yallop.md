@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: David A. Yallop
+tag: david-a-yallop
 permalink: /tags/david-a-yallop/
 ---

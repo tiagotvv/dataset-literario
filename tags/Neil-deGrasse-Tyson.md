@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Neil deGrasse Tyson
+tag: neil-degrasse-tyson
 permalink: /tags/neil-degrasse-tyson/
 ---

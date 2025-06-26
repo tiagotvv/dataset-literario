@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Yōko Ogawa
+tag: yōko-ogawa
 permalink: /tags/yōko-ogawa/
 ---

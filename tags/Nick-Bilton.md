@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Nick Bilton
+tag: nick-bilton
 permalink: /tags/nick-bilton/
 ---

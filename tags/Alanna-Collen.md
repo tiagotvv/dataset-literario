@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Alanna Collen
+tag: alanna-collen
 permalink: /tags/alanna-collen/
 ---

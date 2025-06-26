@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Sophocles
+tag: sophocles
 permalink: /tags/sophocles/
 ---

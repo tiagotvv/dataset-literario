@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Leo Tolstoy
+tag: leo-tolstoy
 permalink: /tags/leo-tolstoy/
 ---

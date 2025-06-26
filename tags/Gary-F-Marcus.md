@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Gary F. Marcus
+tag: gary-f-marcus
 permalink: /tags/gary-f-marcus/
 ---

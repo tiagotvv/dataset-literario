@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Geoffrey Blainey
+tag: geoffrey-blainey
 permalink: /tags/geoffrey-blainey/
 ---

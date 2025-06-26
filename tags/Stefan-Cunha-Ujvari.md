@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Stefan Cunha Ujvari
+tag: stefan-cunha-ujvari
 permalink: /tags/stefan-cunha-ujvari/
 ---

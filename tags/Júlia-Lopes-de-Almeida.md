@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Júlia Lopes de Almeida
+tag: júlia-lopes-de-almeida
 permalink: /tags/júlia-lopes-de-almeida/
 ---

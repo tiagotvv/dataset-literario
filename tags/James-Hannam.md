@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: James Hannam
+tag: james-hannam
 permalink: /tags/james-hannam/
 ---

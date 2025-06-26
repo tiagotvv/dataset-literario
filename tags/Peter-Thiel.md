@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Peter Thiel
+tag: peter-thiel
 permalink: /tags/peter-thiel/
 ---

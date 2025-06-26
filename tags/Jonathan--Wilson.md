@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Jonathan  Wilson
+tag: jonathan--wilson
 permalink: /tags/jonathan--wilson/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ernest Hemingway
+tag: ernest-hemingway
 permalink: /tags/ernest-hemingway/
 ---

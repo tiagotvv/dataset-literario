@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Dezső Kosztolányi
+tag: dezső-kosztolányi
 permalink: /tags/dezső-kosztolányi/
 ---

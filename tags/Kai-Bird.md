@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Kai Bird
+tag: kai-bird
 permalink: /tags/kai-bird/
 ---

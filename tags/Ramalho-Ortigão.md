@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Ramalho Ortigão
+tag: ramalho-ortigão
 permalink: /tags/ramalho-ortigão/
 ---

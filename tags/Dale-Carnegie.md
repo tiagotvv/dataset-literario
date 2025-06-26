@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Dale Carnegie
+tag: dale-carnegie
 permalink: /tags/dale-carnegie/
 ---

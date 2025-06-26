@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Daniel Kahneman
+tag: daniel-kahneman
 permalink: /tags/daniel-kahneman/
 ---

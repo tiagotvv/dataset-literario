@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Eli Pariser
+tag: eli-pariser
 permalink: /tags/eli-pariser/
 ---

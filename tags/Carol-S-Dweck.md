@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Carol S. Dweck
+tag: carol-s-dweck
 permalink: /tags/carol-s-dweck/
 ---

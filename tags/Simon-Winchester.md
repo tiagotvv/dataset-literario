@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Simon Winchester
+tag: simon-winchester
 permalink: /tags/simon-winchester/
 ---

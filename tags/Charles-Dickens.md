@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Charles Dickens
+tag: charles-dickens
 permalink: /tags/charles-dickens/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Walter Isaacson
+tag: walter-isaacson
 permalink: /tags/walter-isaacson/
 ---

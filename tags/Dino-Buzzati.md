@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Dino Buzzati
+tag: dino-buzzati
 permalink: /tags/dino-buzzati/
 ---

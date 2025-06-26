@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Donald J. Trump
+tag: donald-j-trump
 permalink: /tags/donald-j-trump/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: Luigi Pirandello
+tag: luigi-pirandello
 permalink: /tags/luigi-pirandello/
 ---
