@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Noites Brancas"
+author: "Fyodor Dostoevsky"
+publisher: "Principis"
+pages: 80
+date_read: 2021/03/03
+my_rating: 4
+avg_rating: 4.07
+tags: ["Fyodor Dostoevsky", "fiction", "russia", "lang-pt"]
+---
+
+Em mais uma incursão pela literatura russa, escolhi esta pequena novela de Dostoievski. É um livro que me deixou sem saber muito bem o que pensar a respeito. O narrador é um homem que se acostumou a viver solitário sonhando acordado com uma vida que nunca teve (e pensa que não terá). Ele tem muita dificuldade no relacionamento interpessoal. Numa noite em São Petersburgo ele conhece Nástienka e os dois travam um diálogo intenso (e nas noites seguintes também) contando as suas vidas um para o outro. O diálogo é puro romantismo do século XIX com muito apelo a emoção e muito lirismo. A dificuldade do narrador em manter uma conversa com Nástienka chega a ser engraçada e ao mesmo tempo dar pena. A auto estima dele é muito baixa. Pode até parecer um exagero de Dostoievski  mas eu tenho um palpite (spoiler abaixo) porque ele construiu a história com esses diálogos. Ao fim de quatro noite chega-se ao clímax da história e ao final até certo ponto inesperado. <spoiler> Para mim no final do livro quando o narrador conta que vê Matriona muito mais velha do que ele percebia, eu fico com a impressão de que o encontro com Nástienka nunca ocorreu e que as quatro noites foram apenas mais uma história sonhada pelo nosso narrador. Os diálogos são justamente parte do exagero típico da imaginação do narrador sonhador.</spoiler><br/><br/>English:<br/>In yet another foray into Russian literature, I chose this short novel by Dostoievski. It is a book that left me not quite sure what to think about it. The narrator is a man who got used to living alone dreaming about a life he never had (and thinks he won't have). He struggles in interpersonal relationships. One night in St. Petersburg he meets Nástienka and the two engage in an intense dialogue (this repeats for 3 more nights) telling their life stories to each other. The dialogue is pure nineteenth century romanticism with a lot of emotion and lyricism. The narrator social awkwardness with Nástienka is, at the same time, funny and sad. His self-esteem is very low. It may seem like an exaggeration by Dostoievski but I have a hunch (spoiler below) on why he wrote the dialogues like that. The climax is reached after the fourth night the book ending is somewhat unexpected. <spoiler> For me, in the end of the book, when the narrator said that he perceives Matryona much older than he previously thought, I got the impression that the meeting with Nástienka never took place and that the four nights were just another dream. The dialogues are just part of the typical exaggeration of our dreamer's imagination. </spoiler>
+

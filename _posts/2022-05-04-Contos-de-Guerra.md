@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Contos de Guerra"
+author: "Leo Tolstoy"
+publisher: "Relógio D'Água"
+pages: 265
+date_read: 2022/05/04
+my_rating: 5
+avg_rating: 4.04
+tags: ["Leo Tolstoy", "history", "russia", "contos", "fiction", "lang-pt"]
+---
+
+Uma bela coleção de contos de Tolstoi. Dou 4,5 estrelas para o livro mas arredondo para cima porque Tolstoi apresentou o tema da guerra sob dimensões muito interessantes, principalmente no tocante a natureza humana.<br/><br/>O conjunto de contos que compõem o livro tem um tom autobiográfico uma vez que Tolstoi chegou a servir durante a campanha da Rússia na conquista do Cáucaso. Além de contos narrados durante a campanha do Cáucaso, o livro possui os 3 contos de Sevastópol, que narram o episódio do cerco da cidade durante da guerra da Crimeia (contra uma coalizão entre otomanos, franceses e ingleses).<br/><br/>Sobre os contos:<br/><br/>- Contos de Sevastopol: contam 3 momentos do cerco à cidade durante os anos de 1854 e 1855. O primeiro conto, bem curto, é muito mais descritivo e apresenta ao leitor o cenário dos acontecimentos. Já o segundo conto utiliza uma personagens dentro de um dos batalhões russos para traçar um retrato da personalidade do soldado russo, do seu modus operandi numa guerra e de toda política, vaidade e inveja que podem ocorrer nestas situações. Tolstoi parece condenar a importância que as medalhas e condecorações recebem dos oficiais. Não salvamos um colega pelo companheirismo mas porque aumenta a nossa chance de receber uma ordem honorífica. O terceiro conto conta a queda da cidade, tomada pelo exército francês através da história de dois irmãos que se encontram por acaso a caminho de Sevastópol. Notamos inicialmente um estado de negação e depois, o conformismo com a derrota russa. Percebe-se bem a importância da Crimeia para a Rússia nestas histórias.<br/><br/>Os quatro contos seguintes são passados na campanha do Cáucaso. São histórias simples mas ao mesmo tempo dizem alguma coisa ao leitor.<br/><br/>- A Incursão: uma bela discussão filosófica sobre o fenômeno da guerra e da matança e sobre o que seria a coragem. <br/><br/>- O Corte da Floresta: uma missão no Cáucaso, lutas contra os chechenos. Baseados na experiência do próprio Tolstoi. <br/><br/>- O Cativo do Cáucaso: Um conto de tirar o fôlego do leitor. A história do oficial Jilin, que no início de uma viagem que resolveu fazer para  visitar a mãe é capturado pelos tártaros. Tolstoi aproveita para fazer um pequeno relato documental sobre a vida em uma fortificação dos chechenos.<br/><br/>- O Despromovido: mais um conto onde Tolstoi volta a tratar a questão de hierarquia e personalidade dos soldados russos. <br/><br/>Destaco também o prefácio da tradutora Nina Guerra que oferece uma ótima contextualização das histórias. <br/><br/>Por mais antigas que sejam estas histórias (quase 170 anos), elas são valiosas porque a partir delas conseguimos perceber um pouco do que vem ocorrendo nos dias de hoje. <br/>
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Sobre a Leitura"
+author: "Marcel Proust"
+publisher: "Relógio D'Água Editores"
+pages: 64
+date_read: 2025/01/04
+my_rating: 2
+avg_rating: 3.65
+tags: ["Marcel Proust", "essays", "france", "lang-pt"]
+---
+
+Um ensaio absolutamente aborrecido. Se Marcel Proust queria descrever a leitura e os prazeres derivados dela, o que tenho a dizer é que ele não foi bem sucedido. O que temos aqui é um texto bastante cansativo, seja pelo excesso de descrições, seja pelas divagações. Há também a sensação de estarmos a ler um texto acadêmico. Para um ensaio de menos de 40 páginas, a quantidade (e extensão) das notas de rodapé atrapalham o fluxo da leitura (para além das próprias notas trazerem apenas mais divagações). <br/><br/>Esta edição começa com um texto onde Proust recorda com muita nostalgia a sua infância como leitor. É interessante ver que ele menciona muito mais o ambiente e o que fazia do que elementos da leitura propriamente dita. Também há um texto onde Proust comenta as ideias de John Ruskin sobre a leitura.  Esta parte parece aqueles debates da torre de marfim da academia. <br/><br/>O livro só não leva 1 estrela porque no mar de divagações e "erudição academicista" ainda conseguimos pescar uma ou outra reflexão interessante. Confesso que se o estilo de escrita de Proust for esse, "Em busca do tempo perdido" não vai furar a fila de livros que ainda quero ler.<br/><br/><i> Uma vez lida a última página, o livro estava acabado[...] Então, como era? Aquele livro era só aquilo? Esses seres, a quem déramos mais atenção e ternura do que às pessoas vivas, não ousando nunca confessar a que ponto os amávamos[...]; essas pessoas, que nos tinham feito ofegar e soluçar, não as veríamos nunca mais, nada mais saberíamos delas. Já em algumas páginas, o autor, no cruel 'Epílogo', tivera o cuidado de as 'distanciar' com uma indiferença inacreditável por parte de quem sabia o interesse com que até então as seguíamos passo a passo.</i><br/><br/><i>A leitura de todos os bons livros é como que uma conversação com as pessoas mais bem-criadas dos séculos passados que foram seus autores" (Descartes)</i><br/><br/><i> E tal é, com efeito, um dos grandes e maravilhosos caracteres do belos livros (e que nos fará compreender o papel ao mesmo tempo essencial e limitado que a leitura pode desempenhar na nossa vida espiritual) o de que para o autor poderiam chamar-se 'Conclusões' e para o leitor 'Incitações'. </i><br/><br/><i> Na leitura, a amizade é de súbito reconduzida à sua pureza primeira. Com os livros, não há amabilidade. Esses amigos, se passamos com ele o serão, é porque temos verdadeiramente vontade de o fazer. E depois de os deixarmos, não há nenhum desses pensamentos que estragam a amizade: Que terão pensado de nós? Não teremos tido falta de tato? - Teremos agradado? - nem o medo se sermos esquecidos por um outro. </i>
+

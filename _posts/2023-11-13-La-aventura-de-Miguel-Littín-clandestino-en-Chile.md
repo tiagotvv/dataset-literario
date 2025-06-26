@@ -1,0 +1,14 @@
+---
+layout: post
+title: "La aventura de Miguel Littín clandestino en Chile"
+author: "Gabriel García Márquez"
+publisher: "Debolsillo"
+pages: 190
+date_read: 2023/11/13
+my_rating: 4
+avg_rating: 3.88
+tags: ["Gabriel García Márquez", "colombia", "politics", "nobel", "lang-es"]
+---
+
+Um livro que relata uma história real. Em 1985, o cineasta chileno Miguel Littín. exilado pela ditadura chilena desde 1973 e parte de uma lista de pessoas banidas de entrar no país, viaja de forma clandestina ao Chile para filmar um documentário a respeito da vida no país sob a ditadura do general Augusto Pinochet. Quando regressou a Europa, Littín deu uma longa entrevista a Gabriel García Márquez e este condensou quase 18 horas de conversas ao longo de 1 semana neste pequeno livro de menos de 200 páginas com um relato em primeira pessoa a respeito desta epopéia sob o ponto de vista de Littín.  O documentário ficou pronto em 1986 e se chama Acta general de Chile.<br/><br/>A leitura flui muito bem. Miguel Littín conta detalhes a respeito da sua transformação em um homem de negócios uruguaio e de como combinou com equipes de filmagens estrangeiras (da Holanda, Itália e França para filmarem em diferentes localidades) do Chile e sob diferentes pretextos oficiais (por exemplo, os italianos foram filmar o Palácio de La Moneda sob o pretexto de estarem produzindo um documentário sobre prédios inspirados na arquitetura italiana). Como também é preciso passar por uma grande rede clandestina de contactos, o relato tem uma 'vibe' de novela de espionagem e há vários momentos onde dá para sentir o temor de todos serem desmascarados e presos. <br/><br/>Littín dá um panorama de como era o Chile em 1985. Fica claríssima a sua desaprovação dos rumos tomados pelo país durante a gestão Pinochet, principalmente no que diz respeito a economia. O cineasta visitou a cidade de Concepcíon, um dos berços do movimento de esquerda que levou Salvador Allende ao poder em 1970 e também visitou mineiros de carvão na pequena cidade de Lota, que fazem quase que um culto a personalidade do ex-presidente. <br/><br/>Ao longo da narrativa, há várias recordações pessoais de Littín como, por exemplo, o próprio dia 11 de Setembro de 1973 e de como escapou de ser capturado (e possivelmente morto) neste dia.  Também temos relatos de eventos importantes na ditadura como o caso dos degolados e o caso de Sebastián Acevedo que se incendiou em frente a catedral de Concepcíon em protesto contra a tortura dos seus filhos. <br/><br/>Há pequenos momentos bem humorados como a tentativa de Littín fazer a barba que quase o entrega como um chileno de uma geração mais antiga ao usar 'rasurar' no lugar de 'afeitar' ao pedir para fazer a barba. Há momentos de grande apreensão, especialmente quando um policial/carabinero aborda Littín ou as equipes de filmagens. <br/><br/>É uma leitura rápida e tem um nível de ação que até daria para fazer um "filme a respeito da história da produção do filme". 
+

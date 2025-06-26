@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Lost in Math: How Beauty Leads Physics Astray"
+author: "Sabine Hossenfelder"
+publisher: "Basic Books"
+pages: 304
+date_read: 2023/03/01
+my_rating: 4
+avg_rating: 4.06
+tags: ["Sabine Hossenfelder", "physics", "science", "woman", "lang-en"]
+---
+
+For a book about the state of 21st century physics, it was a very pleasant surprise. I was expecting a somewhat dry read because of all the complex theories but Sabine Hossenfelder is as great writer and managed to make the journey as smooth as possible. She is a German researcher that works on the field of Theoretical Physics and dissects the subject delivering her criticism (or raise) in a witty and playful way.<br/>Hossenfelder states that Theoretical Physics is currently a 'hostage' of aesthetics. In this case, aesthetics is represented by symmetry, by the desire of grand unified theory, and by the concept of naturalness. The standard model, which is the gold standard of Physics, perceived lack of beauty is disturbing to some researchers. As a result, physicists rather devise novel theories that cannot be proven and conjecture the existence of particles that have never been detected than to recognize that sometimes nature is messy and 'ugly'. <br/><i><br/>I can't believe what this once-venerable profession has become. Theoretical physicists used to explain what was observed. Now they try to explain why they can't explain what was not observed. And they're not even good at that. <br/></i><br/>Dozens of Nobel laureates, some of which were interviewed by Hossenfelder, recognized that they were guided by beauty in the first place, which is not scientifically sound at all. Here is one famous example:<br/><i><br/>Paul Dirac (1902–1984), a Nobel laureate who has an equation named after him, went a step further and spelled out instructions: “The research worker, in his efforts to express the fundamental laws of Nature in mathematical form, should strive mainly for mathematical beauty.”<br/></i> <br/>The book, however, is not only a long rant. Throughout the text, Hossenfelder gives the reader a very good historical panorama on the field. She saves one of the best parts of the book to the appendix, more specifically appendix C, where she provides the reader a guide on how to improve the current situation. It has valuable suggestions for scientists such as:<br/>	- Learning about and preventing social and cognitive biases<br/>	- Beware the influence of media and social networks <br/>	- Building a culture of criticism: Ignoring bad ideas don't make them go away. Killing ideas is a necessary part of science. Think of it as community service<br/>	- Saying no to science policies that affects your objectivity<br/>The appendix also has some tips for bureaucrats and science writers. Overall a very good book and recommended for anyone interested in Physics
+

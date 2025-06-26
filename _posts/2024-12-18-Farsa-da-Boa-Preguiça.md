@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Farsa da Boa Preguiça"
+author: "Ariano Suassuna"
+publisher: "Nova Fronteira"
+pages: 212
+date_read: 2024/12/18
+my_rating: 3
+avg_rating: 3.96
+tags: ["Ariano Suassuna", "brazil", "fiction", "lang-pt", "teatro"]
+---
+
+ Talvez seja a peça de Suassuna com crítica social mais forte que eu tenha lido. Dou 3,5/5 e arredondo para baixo pois não gostei tanto assim do final. Porém é mais uma peça engraçadíssima de Ariano Suassuna.<br/><br/>O cenário é o conhecido de todas as peças do autor: o sertão nordestino. Temos o poeta preguiçoso Simão e a sua mulher Nevinha. Simão é um poeta preguiçoso, o que leva Nevinha ao desespero, uma vez que o sustento da casa sempre fica por um fio. Temos também o "burguês" endinheirado Aderaldo e a sua mulher, Dona Clarabela, que é muito mais interessada nas aparências do que em qualquer outra coisa. As linhas de moralidade das personagens são bem tênues. Na linha das peças de Suassuna, temos três santos "apresentadores" da peça que além de contextualizarem cada início de ato, de vez em quando aparecem como personagens secundários e fazem comentários sobre o quarteto principal.<br/><br/>A peça é divida em três atos, "O Peru do Cão Coxo", "A Cabra do Cão Caolho" e "O Rico Avarento". Em todos os atos vamos ver o conflito ócio/trabalho, pobreza/riqueza, generosidade/avareza. Muito bom humor nos três, com tiradas muito engraçadas dos personagens (principalmente do poeta Simão).<br/><br/>No texto de apresentação da peça, Suassuna é bem assertivo, chegando até a comentar sobre geopolítica. Um texto politicamente muito engajado. Aqui alguns dos comentários tecidos pelo autor:<br/><br/><i> Ora, na minha arbitrária e talvez torcida opinião de brasileiro que nunca saiu de sua terra, esses Povos nórdicos são a raça com mais vocação para burro de carga que conheço. Nós, Povos castanhos do mundo, sabemos, ao contrário, que o único verdadeiro objetivo do Trabalho é a Preguiça que ele proporciona depois, e na qual podemos nos entregar à alegria do único trabalho verdadeiramente digno, o trabalho criador, livre e gratuito. </i><br/><br/><i> Atualmente, a nossa situação é esta: de um lado, uma minoria de privilegiados, com direito ao ócio, quase sempre mal aproveitado, danoso e danado; do outro, o Povo, colocado entre duas cruzes: a cruz do trabalho escravo, intenso e mal remunerado, e a cruz pior de todas, a do ócio forçado, a do lazer a pulso do desemprego. </i><br/><br/>Curiosamente, aparece uma reflexão que é bastante atual nos dias de hoje com a inteligência artifical em voga:<br/><br/><i> De qualquer forma, depois que escrevi a Farsa da Boa Preguiça, comecei a tomar conhecimento de artigos nos quais os sociólogos nos alertavam para os problemas que poderiam advir, para a humanidade, do ócio a ser brevemente criado pela automação. </i>
+

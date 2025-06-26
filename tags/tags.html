@@ -1,0 +1,14 @@
+---
+layout: default
+title: Tags
+---
+
+<h1>Tags</h1>
+
+<ul>
+  {% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+  {% for tag in all_tags %}
+    {% assign tag_trimmed = tag | strip %}
+    <li><a href="/tags/{{ tag_trimmed | slugify }}/">{{ tag_trimmed }}</a></li>
+  {% endfor %}
+</ul>
