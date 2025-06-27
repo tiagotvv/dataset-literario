@@ -2,6 +2,7 @@
 layout: default
 title: Dataset Literário
 ---
+<head><link rel="icon" href="{{ '/favicon.png' | relative_url }}" type="image/x-icon"></head>
 
 <img src="{{ '/assets/images/logo.png' | relative_url }}"  alt="Logo" style="max-width: 200px;"/>
 
